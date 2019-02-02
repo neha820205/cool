@@ -5,3 +5,4 @@ Chairs
 picnic
 sandwitches for picnic
 books and pens and paper
+water
