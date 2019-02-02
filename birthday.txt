@@ -4,3 +4,4 @@ Chairs
 ...................
 picnic
 sandwitches for picnic
+books
